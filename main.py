@@ -1,0 +1,8 @@
+print("welcome to python programming")
+print(67+71)
+print("67+91")
+print("i love emobilis")
+print("sting")
+print("safari class")
+print("Eric Were")
+print("mid morning class")
